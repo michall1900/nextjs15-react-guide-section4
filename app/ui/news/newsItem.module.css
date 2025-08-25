@@ -1,0 +1,7 @@
+
+.newsItem{
+  display: flex;
+  width: 20rem;
+  height: 30rem;
+  align-items: center;
+}
